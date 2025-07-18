@@ -10,7 +10,9 @@ Dashboard ini menampilkan performa penjualan, komisi, dan model mobil terpopuler
 ## 🧰 Tools & Dataset
 - **Tools**: Microsoft Excel (Pivot Table, Chart, Conditional Formatting)
 - **Dataset**: Data penjualan mobil (berisi tanggal penjualan, nama sales, model mobil, jumlah, komisi)
-- [Link Dataset](https://www.kaggle.com/datasets/suraj520/car-sales-data/data)
+
+[Link Dataset](https://www.kaggle.com/datasets/suraj520/car-sales-data/data)
+
 ---
 
 ## 📊 Tampilan Dashboard
@@ -30,7 +32,6 @@ Dashboard ini menampilkan performa penjualan, komisi, dan model mobil terpopuler
 ## 📂 Struktur File
 | File/Folder | Keterangan |
 |-------------|------------|
-| `data/car_sales_data.xlsx` | File sumber data |
 | `dashboard/car_sales_dashboard.png` | Tampilan visual dari dashboard Excel |
 | `README.md` | Deskripsi proyek ini |
 
