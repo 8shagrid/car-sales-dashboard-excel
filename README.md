@@ -17,7 +17,7 @@ Dashboard ini menampilkan performa penjualan, komisi, dan model mobil terpopuler
 
 ## 📊 Tampilan Dashboard
 
-![Dashboard Preview](dashboard/car_sales_dashboard.png)
+![Dashboard Preview](dashboard/car_sales_dashboard_2.png)
 
 ---
 
